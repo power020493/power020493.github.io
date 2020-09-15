@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Thoughts about tech
 
 You can use the [editor on GitHub](https://github.com/power020493/power020493.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
